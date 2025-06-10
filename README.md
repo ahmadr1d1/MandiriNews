@@ -54,7 +54,7 @@ git clone https://github.com/ahmadr1d1/MandiriNews.git
 
 ## 📹 Demo Aplikasi 
 Tonton demo aplikasi lengkap di sini:
-📎 [Link Google Drive](https://github.com/user-attachments/assets/7b56d8fa-c2b4-4f3a-a29d-0c4457bcf306)
+📎 [Link Google Drive](https://drive.google.com/file/d/196Aenz0YNphlQCHDWLVEE6qWOrv2gWtT/view?usp=drive_link)
 
 
 
